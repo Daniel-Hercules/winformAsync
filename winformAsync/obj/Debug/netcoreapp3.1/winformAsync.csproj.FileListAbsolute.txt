@@ -1,0 +1,15 @@
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\bin\Debug\netcoreapp3.1\winformAsync.exe
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\bin\Debug\netcoreapp3.1\winformAsync.deps.json
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\bin\Debug\netcoreapp3.1\winformAsync.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\bin\Debug\netcoreapp3.1\winformAsync.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\bin\Debug\netcoreapp3.1\winformAsync.dll
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\bin\Debug\netcoreapp3.1\winformAsync.pdb
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.Form1.resources
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.csproj.GenerateResource.cache
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.dll
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.pdb
+C:\Users\D.Hercules (HISCOX)\Source\Repos\winformAsync\obj\Debug\netcoreapp3.1\winformAsync.genruntimeconfig.cache
